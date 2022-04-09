@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "GymBooking",
+    "slug": "GymBooking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
